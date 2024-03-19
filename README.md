@@ -1,4 +1,4 @@
-# IPC
+# 3D-printed Intermittent Pneumatic Compression (IPC) device prototype
 
 ![alt text](ipc.png)
 
